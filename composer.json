@@ -1,0 +1,14 @@
+{
+    "name": "skywcc/demo",
+    "description": "a test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shengyu",
+            "email": "admin@zxnb.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
